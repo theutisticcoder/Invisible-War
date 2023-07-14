@@ -4,7 +4,7 @@ Invisible War (AKA Mission Invisible) is a fun FPS game where everything is invi
 <h3>Click on the image below to play Mission Invisible</h3>
 <a href="https://missioninvisible.onrender.com/">Click on the image to open Mission Invisible <img src="https://github.com/Invisible-War-Battle/Invisible-War/blob/main/forest.png"/></a>
 <style>
-  div{
+  *{
     background: black;
     color: white;
   }
