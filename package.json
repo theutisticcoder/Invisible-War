@@ -20,6 +20,7 @@
   },
   "scripts": {
     "tauri": "tauri",
+    "install": "npm install",
     "open": "node index.js"
   },
   "devDependencies": {
