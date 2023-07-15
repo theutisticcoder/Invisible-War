@@ -23,7 +23,7 @@ jobs:
           node-version: lts/*
 
       - name: Build step
-        run: npm install && node index.js # 📝 Update the build command(s)
+        run: npm run install && node index.js # 📝 Update the build command(s)
 
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
