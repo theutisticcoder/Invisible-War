@@ -19,7 +19,9 @@
     "ws": "^8.13.0"
   },
   "scripts": {
-    "tauri": "tauri"
+    "tauri": "tauri",
+    "install": "npm install",
+    "open": "node index.js"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^1.2.3"
